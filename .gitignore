@@ -1,0 +1,6 @@
+emoji_sentiment_artifacts/*
+emoji_sentiment_artifacts.zip
+emoji_sentiment_train.ipynb
+streamlit.log
+.venv/*
+.venv-1/*
