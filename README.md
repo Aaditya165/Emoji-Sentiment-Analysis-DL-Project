@@ -6,7 +6,7 @@ Upon running, the .ipynb notebook also creates two files:
     - emoji_sentiment_lib.py
     - app.py
 
-#### How to run the frontend:
+### How to run the frontend:
 
 **streamlit run app.py**
 
